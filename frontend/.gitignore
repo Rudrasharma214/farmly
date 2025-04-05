@@ -1,0 +1,4 @@
+.gitignorenode_modules/
+dist/
+.env
+.vite/
